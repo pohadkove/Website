@@ -85,6 +85,57 @@ import vuetify from './plugins/vuetify.js'
       </v-card>
     </v-expand-transition>
   </v-card>
+  <br>
+<!---->
+<v-card
+  theme="dark"
+    class="mx-auto"
+    max-width="344"
+  >
+  <img src="https://pohadkove.github.io/Website/img/gon.png">
+    <v-card-text>
+      <div>Gon Bot</div>
+      <p class="text-h4 text--primary">
+        Simple Bot made in python for my private server
+      </p>
+    </v-card-text>
+    <v-card-actions>
+      <v-btn
+        variant="text"
+        color="secondary"
+        @click="reveal = true"
+      >
+        Learn More
+      </v-btn>
+    </v-card-actions>
+
+    <v-expand-transition>
+      <v-card
+        v-if="reveal"
+        class="transition-fast-in-fast-out v-card--reveal"
+        style="height: 100%;"
+      >
+        <v-card-text class="pb-0">
+          <p class="text-h4 text--primary">
+            Code
+          </p>
+          <p><v-btn>Link to code</v-btn></p>
+          <br>
+          <p> If you want the code for this bot you can find it above
+          </p>
+        </v-card-text>
+        <v-card-actions class="pt-0">
+          <v-btn
+            variant="text"
+            color="teal-accent-4"
+            @click="reveal = false"
+          >
+            Close
+          </v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-expand-transition>
+  </v-card>
 
   </div>
   <div></div>
