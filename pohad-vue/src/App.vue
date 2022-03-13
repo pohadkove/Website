@@ -8,13 +8,18 @@ import vuetify from './plugins/vuetify.js'
 @import './assets/base.css';
 </style>
 <script>
+  export default {
+    data: () => ({
+      reveal: false,
+    }),
+  }
 
 </script>
 
 
-<template>
+<template >
 <br>
-<header class="text-gray-400 bg-dark body-font">
+<header class="Grey-text bg-dark body-font">
         <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
          <p> <v-btn variant="text"> <v-icon large color="secondary" >mdi-bow-tie </v-icon> Pohadkove</v-btn></p>
           <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
@@ -30,6 +35,57 @@ import vuetify from './plugins/vuetify.js'
         </div>
       </header>
 <br>
+  <div class="container px-60 py-24 mx-auto flex flex-col">  
+<h class="text-7xl White-text">Projects</h>
+<hr>
+<br>
+  <v-card
+  theme="dark"
+    class="mx-auto"
+    max-width="344"
+  >
+  <img src="https://pohadkove.github.io/Website/img/pastelcss-logos.jpeg">
+    <v-card-text>
+      <div>Pastel.css</div>
+      <p class="text-h4 text--primary">
+        A css framework
+      </p>
+    </v-card-text>
+    <v-card-actions>
+      <v-btn
+        variant="text"
+        color="secondary"
+        @click="reveal = true"
+      >
+        Learn More
+      </v-btn>
+    </v-card-actions>
 
-    
+    <v-expand-transition>
+      <v-card
+        v-if="reveal"
+        class="transition-fast-in-fast-out v-card--reveal"
+        style="height: 100%;"
+      >
+        <v-card-text class="pb-0">
+          <p class="text-h4 text--primary">
+            Why?
+          </p>
+          <p>I was tired of installing a whole library just for simple things and decided to make my own lighteight library that let me do simple css actions</p>
+        </v-card-text>
+        <v-card-actions class="pt-0">
+          <v-btn
+            variant="text"
+            color="teal-accent-4"
+            @click="reveal = false"
+          >
+            Close
+          </v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-expand-transition>
+  </v-card>
+
+  </div>
+  <div></div>
 </template>
