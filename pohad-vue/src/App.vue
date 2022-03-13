@@ -36,6 +36,10 @@ import vuetify from './plugins/vuetify.js'
       </header>
 <br>
   <div class="container px-60 py-24 mx-auto flex flex-col">  
+
+ <v-alert color="secondary"> <v-icon>mdi-alert</v-icon>Its recomended not to update pastel.css before checking if their will be anything to break your website</v-alert>
+ <br>
+
 <h class="text-7xl White-text">Projects</h>
 <hr>
 <br>
@@ -86,6 +90,8 @@ import vuetify from './plugins/vuetify.js'
     </v-expand-transition>
   </v-card>
   <br>
+  <hr>
+  <br>
 <!---->
 <v-card
   theme="dark"
@@ -119,7 +125,7 @@ import vuetify from './plugins/vuetify.js'
           <p class="text-h4 text--primary">
             Code
           </p>
-          <p><v-btn>Link to code</v-btn></p>
+          <p> <a href="https://github.com/pohadkove/Gon-Bot/blob/Base-Bot/gon.py" target="_blank"><v-btn>Link to code</v-btn></a></p>
           <br>
           <p> If you want the code for this bot you can find it above
           </p>
@@ -136,6 +142,10 @@ import vuetify from './plugins/vuetify.js'
       </v-card>
     </v-expand-transition>
   </v-card>
+  <br>
+  <hr>
+  <br>
+  <!---->
 
   </div>
   <div></div>
