@@ -18,7 +18,7 @@ import vuetify from './plugins/vuetify.js'
 </script>
 
 
-<template >
+<template theme="dark">
 <br>
 <header class="Grey-text bg-dark body-font">
         <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
