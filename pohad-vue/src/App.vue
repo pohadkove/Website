@@ -17,9 +17,14 @@ import vuetify from './plugins/vuetify.js'
 </script>
 
 
-<template class="">
+<template >
+<v-app/>
+<!---->
+
+<!---->
 <br>
-<header class="Grey-text bg-dark body-font">
+
+<header class="Grey-text body-font">
         <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
          <p> <v-btn variant="text"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-emoji-dizzy White-text" viewBox="0 0 16 16" >
   <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
@@ -36,6 +41,7 @@ import vuetify from './plugins/vuetify.js'
   </a>
 
         </div>
+        
       </header>
 <br>
   <div class="container px-60 py-24 mx-auto flex flex-col">  
@@ -83,6 +89,7 @@ import vuetify from './plugins/vuetify.js'
             Why?
           </p>
           <p>I was tired of installing a whole library just for simple things and decided to make my own lighteight library that let me do simple css actions</p>
+		   <a href="https://www.npmjs.com/package/pastel.css" target="_blank"><v-btn>On NPM</v-btn></a>
         </v-card-text>
         <v-card-actions class="pt-0">
           <v-btn
@@ -157,4 +164,5 @@ import vuetify from './plugins/vuetify.js'
 
   </div>
   <div></div>
+
 </template>
