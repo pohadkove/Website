@@ -10,15 +10,14 @@ import vuetify from './plugins/vuetify.js'
 <script>
   export default {
     data: () => ({
-      reveal: false,
-     
+      reveal: false, 
     }),
   }
 
 </script>
 
 
-<template theme="dark">
+<template class="">
 <br>
 <header class="Grey-text bg-dark body-font">
         <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
@@ -51,7 +50,7 @@ import vuetify from './plugins/vuetify.js'
 <hr>
 <br>
   <v-card
-  theme="dark"
+   theme="dark"
     class="mx-auto"
     max-width="344"
     id="pastel"
@@ -102,7 +101,7 @@ import vuetify from './plugins/vuetify.js'
   <br>
 <!---->
 <v-card
-  theme="dark"
+    theme="dark"
     class="mx-auto"
     max-width="344"
     id="discord"
