@@ -85,7 +85,7 @@ export default defineComponent({
 </script>
 <style>
 .cont{
-   margin-left: 300px;
+   margin-left: 300px; 
 }
 a {
   color: inherit; /* blue colors for links too */
