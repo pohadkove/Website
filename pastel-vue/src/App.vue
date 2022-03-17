@@ -19,9 +19,9 @@
         <v-list density="compact" nav>
          <a href="#btn"> <v-list-item prepend-icon="mdi-gesture-tap-button" title="Buttons" value="btn"></v-list-item> </a>
          <a href="#sb"> <v-list-item prepend-icon="mdi-page-layout-sidebar-right" title="Side-bar" value="bar"></v-list-item></a>
-          <v-list-item prepend-icon="mdi-card-text" title="Text" value="text"></v-list-item>
+         <a href="#txt"> <v-list-item prepend-icon="mdi-card-text" title="Text" value="text"></v-list-item> </a>
          <a href="#col"> <v-list-item prepend-icon="mdi-format-color-fill" title="colors" value="color"></v-list-item> </a>
-          <v-list-item prepend-icon="mdi-arrange-send-backward" title="background" value="bg"></v-list-item>
+         <a href="#bg"> <v-list-item prepend-icon="mdi-arrange-send-backward" title="background" value="bg"></v-list-item> </a>
         </v-list>
       </v-navigation-drawer>
       <div class="cont">
@@ -52,13 +52,17 @@
        <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->  <!---->
        <h1 id="sb">Side bar</h1>
       <a href="https://imgur.com/dOGBALi"><img src="https://i.imgur.com/dOGBALi.png" title="source: imgur.com" /></a>
-
-
+<!---->
+<h1 id="txt">Text</h1>
+<a href="https://imgur.com/GWotFX7"><img src="https://i.imgur.com/GWotFX7.png" title="source: imgur.com" /></a>
   <!-- -->
   <h1 id="col">Colors</h1>
   <a href="https://imgur.com/4sacz5L"><img src="https://i.imgur.com/4sacz5L.png" title="source: imgur.com" /></a>
+  <h1 id="bg">Background</h1>
+  <a href="https://imgur.com/Uk1lSDA"><img src="https://i.imgur.com/Uk1lSDA.png" title="source: imgur.com" /></a>
+
       </div>
-      <v-main style="height: 2500px"></v-main>
+      <v-main style="height:"></v-main>
     </v-layout>
   </v-card>
   </v-app>
