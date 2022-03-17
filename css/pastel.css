@@ -7298,9 +7298,9 @@
 
 .p-red-btn-outline {
   background: #ff8080;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ffa080;
   text-decoration: none;
@@ -7308,9 +7308,9 @@
 
 .p-green-btn-outline {
   background: #afffaf;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #afffc3;
   text-decoration: none;
@@ -7318,9 +7318,9 @@
 
 .p-blue-btn-outline {
   background: #5188ff;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #515dff;
   text-decoration: none;
@@ -7328,9 +7328,9 @@
 
 .p-purple-btn-outline {
   background: #d07eff;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #f07eff;
   text-decoration: none;
@@ -7338,9 +7338,9 @@
 
 .p-yellow-btn-outline {
   background: #ffff7e;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #dfff7e;
   text-decoration: none;
@@ -7348,9 +7348,9 @@
 
 .p-orange-btn-outline {
   background: #ff8e31;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ffc231;
   text-decoration: none;
@@ -7358,9 +7358,9 @@
 
 .dark-btn-outline {
   background: #282828;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #282828;
   text-decoration: none;
@@ -7368,9 +7368,9 @@
 
 .s-salmon-btn-outline {
   background: #e76f51;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #e79551;
   text-decoration: none;
@@ -7378,9 +7378,9 @@
 
 .s-tangerine-btn-outline {
   background: #f4a261;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #f4c761;
   text-decoration: none;
@@ -7388,9 +7388,9 @@
 
 .s-yellow-btn-outline {
   background: #e9c46a;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #e9e46a;
   text-decoration: none;
@@ -7398,9 +7398,9 @@
 
 .s-min-btn-outline {
   background: #2a9d8f;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #2a8e9d;
   text-decoration: none;
@@ -7408,9 +7408,9 @@
 
 .s-navy-btn-outline {
   background: #264653;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #263b53;
   text-decoration: none;
@@ -7418,9 +7418,9 @@
 
 .d-primary-btn-outline {
   background: #7289da;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #7572da;
   text-decoration: none;
@@ -7428,9 +7428,9 @@
 
 .d-gray-btn-outline {
   background: #99aab5;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #99a3b5;
   text-decoration: none;
@@ -7438,9 +7438,9 @@
 
 .d-secondary-btn-outline {
   background: #2c2f33;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #2c2d33;
   text-decoration: none;
@@ -7448,9 +7448,9 @@
 
 .d-dark-btn-outline {
   background: #23272a;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #23252a;
   text-decoration: none;
@@ -7458,9 +7458,9 @@
 
 .b-primary-btn-outline {
   background: #0d6efd;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #0d32fd;
   text-decoration: none;
@@ -7468,9 +7468,9 @@
 
 .b-secondary-btn-outline {
   background: #6c757d;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #6c717d;
   text-decoration: none;
@@ -7478,9 +7478,9 @@
 
 .b-success-btn-outline {
   background: #28a745;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #28a765;
   text-decoration: none;
@@ -7488,9 +7488,9 @@
 
 .b-danger-btn-outline {
   background: #dc3545;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #dc4f35;
   text-decoration: none;
@@ -7498,9 +7498,9 @@
 
 .b-warning-btn-outline {
   background: #ffc107;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ffff07;
   text-decoration: none;
@@ -7508,9 +7508,9 @@
 
 .b-info-btn-outline {
   background: #17a2b8;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #177ab8;
   text-decoration: none;
@@ -7518,9 +7518,9 @@
 
 .b-light-btn-outline {
   background: #f8f9fa;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #f8f9fa;
   text-decoration: none;
@@ -7528,9 +7528,9 @@
 
 .b-dark-btn-outline {
   background: #343a40;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #343740;
   text-decoration: none;
@@ -7538,9 +7538,9 @@
 
 .black-btn-outline {
   background: black;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: black;
   text-decoration: none;
@@ -7548,9 +7548,9 @@
 
 .white-btn-outline {
   background: white;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: white;
   text-decoration: none;
@@ -7558,9 +7558,9 @@
 
 .gray-btn-outline {
   background: gray;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: gray;
   text-decoration: none;
@@ -7568,9 +7568,9 @@
 
 .silver-btn-outline {
   background: silver;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: silver;
   text-decoration: none;
@@ -7578,9 +7578,9 @@
 
 .maroon-btn-outline {
   background: maroon;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #802000;
   text-decoration: none;
@@ -7588,9 +7588,9 @@
 
 .red-btn-outline {
   background: red;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ff4000;
   text-decoration: none;
@@ -7598,9 +7598,9 @@
 
 .purple-btn-outline {
   background: purple;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #800060;
   text-decoration: none;
@@ -7608,9 +7608,9 @@
 
 .fuchsia-btn-outline {
   background: fuchsia;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ff00bf;
   text-decoration: none;
@@ -7618,9 +7618,9 @@
 
 .green-btn-outline {
   background: green;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #008020;
   text-decoration: none;
@@ -7628,9 +7628,9 @@
 
 .lime-btn-outline {
   background: lime;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #00ff40;
   text-decoration: none;
@@ -7638,9 +7638,9 @@
 
 .olive-btn-outline {
   background: olive;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #608000;
   text-decoration: none;
@@ -7648,9 +7648,9 @@
 
 .yellow-btn-outline {
   background: yellow;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #bfff00;
   text-decoration: none;
@@ -7658,9 +7658,9 @@
 
 .navy-btn-outline {
   background: navy;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #200080;
   text-decoration: none;
@@ -7668,9 +7668,9 @@
 
 .blue-btn-outline {
   background: blue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #4000ff;
   text-decoration: none;
@@ -7678,9 +7678,9 @@
 
 .teal-btn-outline {
   background: teal;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #006080;
   text-decoration: none;
@@ -7688,9 +7688,9 @@
 
 .aqua-btn-outline {
   background: aqua;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: deepskyblue;
   text-decoration: none;
@@ -7698,9 +7698,9 @@
 
 .aliceblue-btn-outline {
   background: aliceblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #f0f4ff;
   text-decoration: none;
@@ -7708,9 +7708,9 @@
 
 .antiquewhite-btn-outline {
   background: antiquewhite;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #faf4d7;
   text-decoration: none;
@@ -7718,9 +7718,9 @@
 
 .aquamarine-btn-outline {
   background: aquamarine;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #7ffff4;
   text-decoration: none;
@@ -7728,9 +7728,9 @@
 
 .azure-btn-outline {
   background: azure;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #f0fbff;
   text-decoration: none;
@@ -7738,9 +7738,9 @@
 
 .beige-btn-outline {
   background: beige;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #eff5dc;
   text-decoration: none;
@@ -7748,9 +7748,9 @@
 
 .bisque-btn-outline {
   background: bisque;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #fff3c4;
   text-decoration: none;
@@ -7758,9 +7758,9 @@
 
 .blanchedalmond-btn-outline {
   background: blanchedalmond;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #fff8cd;
   text-decoration: none;
@@ -7768,9 +7768,9 @@
 
 .blueviolet-btn-outline {
   background: blueviolet;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #b82be2;
   text-decoration: none;
@@ -7778,9 +7778,9 @@
 
 .brown-btn-outline {
   background: brown;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #a5492a;
   text-decoration: none;
@@ -7788,9 +7788,9 @@
 
 .burlywood-btn-outline {
   background: burlywood;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #dece87;
   text-decoration: none;
@@ -7798,9 +7798,9 @@
 
 .cadetblue-btn-outline {
   background: cadetblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #5f8ea0;
   text-decoration: none;
@@ -7808,9 +7808,9 @@
 
 .chartreuse-btn-outline {
   background: chartreuse;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #3fff00;
   text-decoration: none;
@@ -7818,9 +7818,9 @@
 
 .chocolate-btn-outline {
   background: chocolate;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #d2961e;
   text-decoration: none;
@@ -7828,9 +7828,9 @@
 
 .coral-btn-outline {
   background: coral;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ffab50;
   text-decoration: none;
@@ -7838,9 +7838,9 @@
 
 .cornflowerblue-btn-outline {
   background: cornflowerblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #6473ed;
   text-decoration: none;
@@ -7848,9 +7848,9 @@
 
 .cornsilk-btn-outline {
   background: cornsilk;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #fdffdc;
   text-decoration: none;
@@ -7858,9 +7858,9 @@
 
 .crimson-btn-outline {
   background: crimson;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #dc1e14;
   text-decoration: none;
@@ -7868,9 +7868,9 @@
 
 .darkblue-btn-outline {
   background: darkblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #23008b;
   text-decoration: none;
@@ -7878,9 +7878,9 @@
 
 .darkcyan-btn-outline {
   background: darkcyan;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #00688b;
   text-decoration: none;
@@ -7888,9 +7888,9 @@
 
 .darkgoldenrod-btn-outline {
   background: darkgoldenrod;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #b8b10b;
   text-decoration: none;
@@ -7898,9 +7898,9 @@
 
 .darkgreen-btn-outline {
   background: darkgreen;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #006419;
   text-decoration: none;
@@ -7908,9 +7908,9 @@
 
 .darkgrey-btn-outline {
   background: darkgrey;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: darkgray;
   text-decoration: none;
@@ -7918,9 +7918,9 @@
 
 .darkkhaki-btn-outline {
   background: darkkhaki;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #afbd6b;
   text-decoration: none;
@@ -7928,9 +7928,9 @@
 
 .darkmagenta-btn-outline {
   background: darkmagenta;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #8b0068;
   text-decoration: none;
@@ -7938,9 +7938,9 @@
 
 .darkolivegreen-btn-outline {
   background: darkolivegreen;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #466b2f;
   text-decoration: none;
@@ -7948,9 +7948,9 @@
 
 .darkorange-btn-outline {
   background: darkorange;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ffcc00;
   text-decoration: none;
@@ -7958,9 +7958,9 @@
 
 .darkorchid-btn-outline {
   background: darkorchid;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #c032cc;
   text-decoration: none;
@@ -7968,9 +7968,9 @@
 
 .darkred-btn-outline {
   background: darkred;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #8b2300;
   text-decoration: none;
@@ -7978,9 +7978,9 @@
 
 .darksalmon-btn-outline {
   background: darksalmon;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #e9b27a;
   text-decoration: none;
@@ -7988,9 +7988,9 @@
 
 .darkseagreen-btn-outline {
   background: darkseagreen;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #8fbc9a;
   text-decoration: none;
@@ -7998,9 +7998,9 @@
 
 .darkslateblue-btn-outline {
   background: darkslateblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #5c3d8b;
   text-decoration: none;
@@ -8008,9 +8008,9 @@
 
 .darkslategray-btn-outline {
   background: darkslategray;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #2f474f;
   text-decoration: none;
@@ -8018,9 +8018,9 @@
 
 .darkturquoise-btn-outline {
   background: darkturquoise;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #009ad1;
   text-decoration: none;
@@ -8028,9 +8028,9 @@
 
 .darkviolet-btn-outline {
   background: darkviolet;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #c900d3;
   text-decoration: none;
@@ -8038,9 +8038,9 @@
 
 .deeppink-btn-outline {
   background: deeppink;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ff1458;
   text-decoration: none;
@@ -8048,9 +8048,9 @@
 
 .deepskyblue-btn-outline {
   background: deepskyblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #007fff;
   text-decoration: none;
@@ -8058,9 +8058,9 @@
 
 .dimgray-btn-outline {
   background: dimgray;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: dimgray;
   text-decoration: none;
@@ -8068,9 +8068,9 @@
 
 .dodgerblue-btn-outline {
   background: dodgerblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #1e58ff;
   text-decoration: none;
@@ -8078,9 +8078,9 @@
 
 .firebrick-btn-outline {
   background: firebrick;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #b24622;
   text-decoration: none;
@@ -8088,9 +8088,9 @@
 
 .floralwhite-btn-outline {
   background: floralwhite;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #fffef0;
   text-decoration: none;
@@ -8098,9 +8098,9 @@
 
 .forestgreen-btn-outline {
   background: forestgreen;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #228b3c;
   text-decoration: none;
@@ -8108,9 +8108,9 @@
 
 .gainsboro-btn-outline {
   background: gainsboro;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: gainsboro;
   text-decoration: none;
@@ -8118,9 +8118,9 @@
 
 .ghostwhite-btn-outline {
   background: ghostwhite;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #faf8ff;
   text-decoration: none;
@@ -8128,9 +8128,9 @@
 
 .gold-btn-outline {
   background: gold;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #e7ff00;
   text-decoration: none;
@@ -8138,9 +8138,9 @@
 
 .goldenrod-btn-outline {
   background: goldenrod;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #dad420;
   text-decoration: none;
@@ -8148,9 +8148,9 @@
 
 .greenyellow-btn-outline {
   background: greenyellow;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #79ff2f;
   text-decoration: none;
@@ -8158,9 +8158,9 @@
 
 .salmon-btn-outline {
   background: salmon;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #faa272;
   text-decoration: none;
@@ -8168,9 +8168,9 @@
 
 .steelblue-btn-outline {
   background: steelblue;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #4667b4;
   text-decoration: none;
@@ -8178,9 +8178,9 @@
 
 .tomato-btn-outline {
   background: tomato;
-  border-radius: 0px;
+  border-radius: 0;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   border: solid 2px;
   border-color: #ff9147;
   text-decoration: none;
@@ -9803,4 +9803,3 @@
   -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
-/*# sourceMappingURL=pastel.css.map */
